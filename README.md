@@ -6,9 +6,9 @@
 ### I'm Erwin Jose. Welcome to my GitHub profile!
 ### 
 ### About Me
-### I'm a 3rd BTech Computer Science Student.
+### I'm a BTech Computer Science Student.
 ### I love machine learning and deep learning which is so applicable and exciting to work on. 
-### I've also tried out web and game developement and have the basic knowledge regarding these fields.
+### I've also tried out web, app and game developement and have the basic knowledge regarding these fields.
 ###
 ### 🌱 I’m currently learning Tensorflow for deep learning. Ive done multiple projects using basic ML methods.
 ### 📫 How to reach me: erwinjose2013@gmail.com.
@@ -16,6 +16,6 @@
 ### Tech Stack
 ### Here are some of the technologies and tools I work with:
 ###
-### Programming Languages: Python, C, Java, C#, Javascript
-### Frameworks & Libraries: React, NodeJS 
-### Database : SQL
+### Programming Languages: Python, C, Java, C#, Javascript, Dart
+### Frameworks & Libraries: React, NodeJS, Flutter,
+### Database : SQL, Firebase
